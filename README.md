@@ -1,5 +1,4 @@
 # LA_1304_Googlio
-LA_1304_Googlio
 
 ## Anleitung für Googlio
 
